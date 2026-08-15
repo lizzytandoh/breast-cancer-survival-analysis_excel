@@ -9,6 +9,8 @@ The aim was to transform the raw data into an interactive Excel dashboard that m
 ## Dashboard
 
 ![Breast Cancer Survival Analysis Dashboard](breast%20cancer%20dashboard.png)
+### Interactive Dashboard
+[⬇️ Download Excel Workbook](Breast_Cancer%20work.xlsx)
 
 ## Key Insights
 
