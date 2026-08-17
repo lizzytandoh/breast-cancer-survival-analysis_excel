@@ -11,7 +11,7 @@ The aim was to transform the raw data into an interactive Excel dashboard that m
 ![Breast Cancer Survival Analysis Dashboard](breast%20cancer%20dashboard.png)
 ### Interactive Dashboard
 [⬇️ Download Excel Workbook](breast_cancer_survival_analysis.xlsx)
-
+Best viewed in Microsoft Excel for full dashboard interactivity and formatting
 ## Key Insights
 
 - Overall survival rate: 75%
